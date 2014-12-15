@@ -30,5 +30,6 @@
       "Drupal\\Exception": "src/",
       "Drupal\\DrupalExtension": "src/"
     }
-  }
+  },
+	"minimum-stability": "dev"
 }
